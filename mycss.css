@@ -8,7 +8,7 @@ body {
 }
 
 .hero-image {
-  background-image: linear-gradient(to bottom, rgba(10, 15, 12, 0.516), rgba(10, 15, 12, 0.516)), url('jaz-heroimg.jpg');
+  background-image: linear-gradient(to bottom, rgba(10, 15, 12, 0.516), rgba(10, 15, 12, 0.516)), url('pictures/jaz-heroimg.jpg');
   height: 400px;
   background-position: center;
   background-repeat: no-repeat;
