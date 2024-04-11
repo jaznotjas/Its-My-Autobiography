@@ -17,7 +17,7 @@ body {
 }
 
 .hero-image-2 {
-  background-image: linear-gradient(to bottom, rgba(10, 15, 12, 0.516), rgba(10, 15, 12, 0.516)), url('friends.jpg');
+  background-image: linear-gradient(to bottom, rgba(10, 15, 12, 0.516), rgba(10, 15, 12, 0.516)), url('pictures/friends.jpg');
   height: 400px;
   background-position: center;
   background-repeat: no-repeat;
