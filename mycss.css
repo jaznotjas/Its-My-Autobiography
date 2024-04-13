@@ -242,12 +242,17 @@ footer {
 }
 
 .text-links a {
-  color: #333;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .text-links a:hover {
-  text-decoration: underline;
+  color: #dcdcdc;
+}
+
+.text-links .separator {
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .credits {
