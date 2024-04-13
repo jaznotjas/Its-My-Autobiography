@@ -237,6 +237,19 @@ footer {
   box-shadow: 0 0 5px rgb(82, 119, 92); /* Shadow effect */
 }
 
+.text-links {
+  margin-top: 10px;
+}
+
+.text-links a {
+  color: #333;
+  text-decoration: none;
+}
+
+.text-links a:hover {
+  text-decoration: underline;
+}
+
 .credits {
   color: #bdbdbd;
 }
